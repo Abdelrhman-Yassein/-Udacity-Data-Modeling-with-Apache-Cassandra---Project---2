@@ -18,7 +18,7 @@ Once we are satisfied with the output, we drop the tables and shutdown our sessi
  
 -----------------------
 The image below is a screenshot of what the denormalized data should appear like in the <font color=red>**event_datafile_new.csv**</font> after the code above is run:<br>
-![log-data](images\image_event_datafile_new.jpg)
+![log-data](https://raw.githubusercontent.com/Abdelrhman-Yassein/-Udacity-Data-Modeling-with-Apache-Cassandra---Project---2/main/images/image_event_datafile_new.jpg)
 
 --------------------------------------
 ## Create queries to ask the following three questions of the data
